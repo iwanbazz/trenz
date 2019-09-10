@@ -63,61 +63,61 @@
 
         <div class="col-md-12 mb-4">
           <div class="block-3 d-md-flex">
-            <a class="image" href="blog-single.html" style="background-image: url('images/img_3.jpg'); "></a>
+            <a class="image" href="/blog-single" style="background-image: url('images/img_3.jpg'); "></a>
             <div class="text">
               <h2 class="heading"><a href="#">Our New Presidential Room</a></h2>
               <p class="meta"><em>Posted on</em> <a href="">June 20, 2018</a> <span class="sep">&bullet;</span> <em>by</em> <a href="#">Admin</a> </p>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, dolorem. Officiis fugit dicta earum, sequi...</p>
-              <p><a href="blog-single.html">Read More...</a></p>
+              <p><a href="/blog-single">Read More...</a></p>
             </div>
           </div>
         </div>
 
         <div class="col-md-12 mb-4">
           <div class="block-3 d-md-flex">
-            <a class="image" href="blog-single.html" style="background-image: url('images/img_1.jpg'); "></a>
+            <a class="image" href="/blog-single" style="background-image: url('images/img_1.jpg'); "></a>
             <div class="text">
               <h2 class="heading"><a href="#">We Have A New Year Promo</a></h2>
               <p class="meta"><em>Posted on</em> <a href="">June 20, 2018</a> <span class="sep">&bullet;</span> <em>by</em> <a href="#">Admin</a> </p>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, dolorem. Officiis fugit dicta earum, sequi...</p>
-              <p><a href="blog-single.html">Read More...</a></p>
+              <p><a href="/blog-single">Read More...</a></p>
             </div>
           </div>
         </div>
 
         <div class="col-md-12 mb-4">
           <div class="block-3 d-md-flex">
-            <a class="image" href="blog-single.html" style="background-image: url('images/img_7.jpg'); "></a>
+            <a class="image" href="/blog-single" style="background-image: url('images/img_7.jpg'); "></a>
             <div class="text">
 
               <h2 class="heading"><a href="#">Experience Luxury Hotel</a></h2>
               <p class="meta"><em>Posted on</em> <a href="">June 20, 2018</a> <span class="sep">&bullet;</span> <em>by</em> <a href="#">Admin</a> </p>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, dolorem. Officiis fugit dicta earum, sequi...</p>
-              <p><a href="blog-single.html">Read More...</a></p>
+              <p><a href="/blog-single">Read More...</a></p>
             </div>
           </div>
         </div>
 
         <div class="col-md-12 mb-4">
           <div class="block-3 d-md-flex">
-            <a class="image" href="blog-single.html" style="background-image: url('images/img_6.jpg'); "></a>
+            <a class="image" href="/blog-single" style="background-image: url('images/img_6.jpg'); "></a>
             <div class="text">
               <h2 class="heading"><a href="#">Our New Presidential Room</a></h2>
               <p class="meta"><em>Posted on</em> <a href="">June 20, 2018</a> <span class="sep">&bullet;</span> <em>by</em> <a href="#">Admin</a> </p>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, dolorem. Officiis fugit dicta earum, sequi...</p>
-              <p><a href="blog-single.html">Read More...</a></p>
+              <p><a href="/blog-single">Read More...</a></p>
             </div>
           </div>
         </div>
 
         <div class="col-md-12 mb-4">
           <div class="block-3 d-md-flex">
-            <a class="image" href="blog-single.html" style="background-image: url('images/img_5.jpg'); "></a>
+            <a class="image" href="/blog-single" style="background-image: url('images/img_5.jpg'); "></a>
             <div class="text">
               <h2 class="heading"><a href="#">2018 New Year Promo</a></h2>
               <p class="meta"><em>Posted on</em> <a href="">June 20, 2018</a> <span class="sep">&bullet;</span> <em>by</em> <a href="#">Admin</a> </p>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, dolorem. Officiis fugit dicta earum, sequi...</p>
-              <p><a href="blog-single.html">Read More...</a></p>
+              <p><a href="/blog-single">Read More...</a></p>
             </div>
           </div>
         </div>
